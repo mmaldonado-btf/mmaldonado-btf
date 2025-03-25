@@ -1,7 +1,6 @@
-👋 Hi, I’m Mariam Maldonado
-- 💼 I work at Betterfly
-- 🍃 I'm improving my knowledge in Flutter
-- 🤖 Big big Evangelion fan
+👋 hi, i’m Mariam Maldonado
+- 💼 i used to work at Betterfly
+- 🍃 my personal account: @mariam6697
 
 <!---
 mmaldonado-btf/mmaldonado-btf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
